@@ -1,0 +1,5 @@
+RENCANA KONTEN LOGIC
+-Lyric lagu python
+ *membuat yric lagu yang sedang viral
+-HTML CSS
+-Vlogs
